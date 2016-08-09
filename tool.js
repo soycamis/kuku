@@ -7,3 +7,4 @@ function say(hi) {
 documento.write("1231231231");
 
 alert("yey");
+
