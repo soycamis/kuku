@@ -4,4 +4,6 @@ function say(hi) {
 	alert(hi);
 }
 
-documento.write("asdasd");
+documento.write("1231231231");
+
+alert("yey");
